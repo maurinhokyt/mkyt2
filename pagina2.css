@@ -40,3 +40,10 @@ footer{
 .crtao:hover{
     transform: scale(1.03);
 }
+
+.resposta-cartao{
+    background-color: var(--cartao-verso);
+    padding: 40px;
+    color: var(--branco);
+    display: none;
+}
