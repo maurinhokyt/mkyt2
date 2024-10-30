@@ -37,3 +37,6 @@ footer{
     box-shadow: 5px 15px 10px var(--preto);
 }
 
+.crtao:hover{
+    transform: scale(1.03);
+}
