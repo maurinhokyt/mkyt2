@@ -8,12 +8,12 @@ criaCartao(
 '4')
 criaCartao(
 'biologia',
-'qual',
-'resposta')
+'qual o alelo dominante',
+'AA')
 criaCartao(
-'categoria',
-'pergunta',
-'resposta')
+'música',
+'quantas cordas tem uma viola caipira',
+'12')
 criaCartao(
 'categoria',
 'pergunta',
