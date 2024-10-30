@@ -26,3 +26,14 @@ footer{
     text-align: center;
     color: var(--branco);
 }
+#container{
+    padding: 40px;
+    display: grid;
+    gap: 3rem;
+}
+.cartao{
+    background-color: var(--cartao-frente);
+    padding: 40px;
+    box-shadow: 5px 5px 5px var(--preto);
+}
+

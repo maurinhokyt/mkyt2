@@ -15,13 +15,13 @@ criaCartao(
 'quantas cordas tem uma viola caipira',
 '12')
 criaCartao(
-'categoria',
-'pergunta',
-'resposta')
+'geografia',
+'qual maior país o mundo em área',
+'Rússia')
 criaCartao(
-'categoria',
-'pergunta',
-'resposta')
+'Míia',
+'',
+'')
 criaCartao(
 'categoria',
 'pergunta',
