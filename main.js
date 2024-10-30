@@ -13,5 +13,13 @@ function criaCartao (categoria, pergunta, resposta){
     </div>
 </div>
     `
+    let respostaV = false;
+    function virar(){
+     respostaV= !respostaV;
+     cartao.classList.togglea('active', respostaV);
+    }
+
+    cartao.addEventListener('click', virar);
+    
     container.appendChild(cartao);
 }
