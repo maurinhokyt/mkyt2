@@ -18,8 +18,6 @@ function criaCartao (categoria, pergunta, resposta){
      respostaV= !respostaV;
      cartao.classList.togglea('active', respostaV);
     }
-
     cartao.addEventListener('click', virar);
-    
     container.appendChild(cartao);
 }
