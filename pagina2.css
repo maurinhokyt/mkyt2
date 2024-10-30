@@ -4,7 +4,7 @@
     --cartao-verso:#1a17cc;
     --destaque:#03151a;
     --preto:#000000;
-    --branco:#fff;
+    --branco:#ffffff;
 }
 body{
     background-color: var(--fundo);
@@ -16,7 +16,7 @@ header{
     background-color: var(--preto);
 }
 header a{
-    color: var(--preto);
+    color: var(--branco);
 }
 footer{
     position: fixed;
