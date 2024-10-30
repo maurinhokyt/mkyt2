@@ -16,7 +16,7 @@ function criaCartao (categoria, pergunta, resposta){
     let respostaV = false;
     function virar(){
      respostaV= !respostaV;
-     cartao.classList.togglea('active', respostaV);
+     cartao.classList.toggle('active', respostaV);
     }
     cartao.addEventListener('click', virar);
     container.appendChild(cartao);
