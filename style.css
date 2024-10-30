@@ -63,10 +63,16 @@ footer{
     font-weight: 700;
     color:var(--destaque);
 }
-.cartao:hover .conteudo-cartao{
+.cartao.active .conteudo-cartao{
     transform: rotateY(180deg);
 }
-
+.pergunta-cartao,
+.resposta-cartao{
+    backface-visibility: hidden;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
 
 
 
