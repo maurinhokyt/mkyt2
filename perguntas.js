@@ -7,8 +7,8 @@ criaCartao(
 '2+2',
 '4')
 criaCartao(
-'categoria',
-'pergunta',
+'biologia',
+'qual',
 'resposta')
 criaCartao(
 'categoria',
