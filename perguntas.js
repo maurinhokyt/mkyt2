@@ -1,11 +1,11 @@
 criaCartao(
-'categoria',
+'esporte',
 'quem é o maior artilheiro da seleção brasileira?',
 'Neymar Jr')
 criaCartao(
-'categoria',
-'pergunta',
-'resposta')
+'matemática',
+'2+2',
+'4')
 criaCartao(
 'categoria',
 'pergunta',
