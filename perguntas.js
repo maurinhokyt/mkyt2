@@ -35,46 +35,46 @@ criaCartao(
     'Quem é o maior vencedor do Ballon Dor?',
     'Messi')
     criaCartao(
-    '',
-    'pergunta',
-    'resposta')
+    'Biologia',
+    'O que é uma DST?',
+    'Doença Sexualmente transmissível')
     criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Matemática',
+    '10% de 500',
+    '50')
     criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Programação',
+    'Linguagem de programação mais utilizada em 2024?',
+    'JavaScript')
 criaCartao(
-'categoria',
-'pergunta',
-'resposta')
+'Geografia',
+'Qual capital da França?',
+'Paris')
 criaCartao(
-'categoria',
-'pergunta',
-'resposta')
+'História',
+'Quem foi o primeiro presidente dos EUA',
+'George Washington.')
 criaCartao(
-'categoria',
-'pergunta',
-'resposta')
+'Química',
+'Qual é o elemento químico com o símbolo "O" na tabela periódica?',
+'oxigênio')
 criaCartao(
-'categoria',
-'pergunta',
-'resposta')
+'Arte',
+'Quem pintou a Mona Lisa ',
+'Leonardo da Vinci')
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Música',
+    'Qual cantor é conhecido como o "Rei do Pop"?',
+    'Michael Jackson')
     criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Tecnologia',
+    'Quem fundou a Apple',
+    'Steve Jobs, Steve Wozniak e Ronald Wayne')
     criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Filosofia',
+    'Quem é o autor da frase "Penso, logo existo"?',
+    'René Descartes.')
     criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Cinema',
+    'Qual foi o filme vencedor do Oscar de Melhor Filme em 1994?',
+    'Forrest Gump')
