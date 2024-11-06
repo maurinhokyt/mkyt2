@@ -19,11 +19,11 @@ criaCartao(
 'qual maior país o mundo em área',
 'Rússia')
 criaCartao(
-'Míia',
-'',
-'')
+'Mídia',
+'Quem é a pessoa mais seguida no Instagram?',
+'Cristiano')
 criaCartao(
-'categoria',
+'',
 'pergunta',
 'resposta')
 criaCartao(
