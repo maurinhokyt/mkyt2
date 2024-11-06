@@ -23,9 +23,9 @@ criaCartao(
 'Quem é a pessoa mais seguida no Instagram?',
 'Cristiano')
 criaCartao(
-'',
-'pergunta',
-'resposta')
+'Matemática',
+'30*64',
+'1920')
 criaCartao(
 'categoria',
 'pergunta',
