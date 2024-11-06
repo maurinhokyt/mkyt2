@@ -27,15 +27,15 @@ criaCartao(
 '30*64',
 '1920')
 criaCartao(
-'categoria',
-'pergunta',
-'resposta')
+'Mídia',
+'Quem é o homem mais rico do mundo?',
+'Elon Musk')
 criaCartao(
-    'categoria',
-    'pergunta',
-    'resposta')
+    'Futebol',
+    'Quem é o maior vencedor do Ballon Dor?',
+    'Messi')
     criaCartao(
-    'categoria',
+    '',
     'pergunta',
     'resposta')
     criaCartao(
