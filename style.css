@@ -76,7 +76,7 @@ footer{
     border: #20964300;
 }
 .cartao.active .conteudo-cartao{
-    transform: rotateY(180deg);
+    transform: rotateY(360deg);
 }
 .pergunta-cartao,
 .resposta-cartao{
